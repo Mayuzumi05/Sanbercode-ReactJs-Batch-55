@@ -1,6 +1,7 @@
-import logo from './logo.svg';
+// import logo from './logo.svg';
 import './App.css';
-import Card from './Card.js';
+import Tugas6 from './tugas6/tugas6.js';
+import Tugas7 from './tugas7/tugas7.js';
 
 function App() {
   return (
@@ -20,7 +21,10 @@ function App() {
     //     </a>
     //   </header>
     // </div>
-    <Card />
+    <>
+      <Tugas6 />
+      <Tugas7 name="Himawan Alan Novianto" batch="55" email="alannovianto11@gmail.com"/>
+    </>
   );
 }
 
