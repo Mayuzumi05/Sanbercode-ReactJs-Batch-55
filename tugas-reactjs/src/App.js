@@ -2,6 +2,7 @@
 import './App.css';
 import Tugas6 from './tugas6/tugas6.js';
 import Tugas7 from './tugas7/tugas7.js';
+import Tugas8 from './tugas8/tugas8.jsx';
 
 function App() {
   return (
@@ -24,6 +25,7 @@ function App() {
     <>
       <Tugas6 />
       <Tugas7 name="Himawan Alan Novianto" batch="55" email="alannovianto11@gmail.com"/>
+      <Tugas8 />
     </>
   );
 }
