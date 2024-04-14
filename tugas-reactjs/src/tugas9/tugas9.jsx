@@ -4,7 +4,7 @@ import { Table } from "flowbite-react";
 import { Button } from "flowbite-react";
 import React from 'react'
 
-function tugas9() {
+function Tugas9() {
   return (
     <div className="w-3/4 m-auto">
         <Table striped >
@@ -75,4 +75,4 @@ function tugas9() {
   )
 }
 
-export default tugas9
+export default Tugas9

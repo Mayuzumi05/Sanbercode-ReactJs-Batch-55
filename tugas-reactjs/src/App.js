@@ -5,6 +5,7 @@ import Tugas7 from './tugas7/tugas7.js';
 import Tugas8 from './tugas8/tugas8.jsx';
 import Tugas9 from './tugas9/tugas9.jsx';
 import Tugas10 from './tugas10/tugas10.jsx';
+import Tugas11 from './tugas11/tugas11.jsx';
 
 function App() {
   return (
@@ -30,6 +31,7 @@ function App() {
       <Tugas8 />
       <Tugas9 />
       <Tugas10 />
+      <Tugas11 />
     </>
   );
 }
